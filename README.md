@@ -1,4 +1,24 @@
-# Ngpoland
+#Ngpoland
+
+Kamil Mysliwiec
+Full-stack JS for Angular developers Master Class 
+During this workshop, we will implement a complete solution from scratch on top a full JavaScript stack using Angular as our frontend framework and NestJS as the backend. We will learn how to design, structure and build a fully functional application using the latest tools and real-world practices. We will focus on advanced patterns and techniques. 
+This workshop aimed for front-end Angular developers who want to expand their skills and knowledge and build a full-stack JavaScript web application.
+
+Course overview
+Architecture patterns
+Design and project structure
+Dynamic content rendering patterns in Angular
+Leverage TypeScript across the stack
+Building reusable components with the Angular CDK
+Clean code and modern patterns for both Angular and Nest
+Implementing an Authentication flow across the stack
+Real world practical tips and techniques
+Prerequisites
+Basic understanding of JavaScript & Angular
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) using [Nrwl Nx](https://nrwl.io/nx).
 
